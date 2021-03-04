@@ -1,0 +1,231 @@
+*{
+    border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    position: absolute;
+    width: 1402px;
+    height: 587px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.textRaleway {
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    width: 435px;
+    height: 43px;
+    left: 484px;
+    top: 102px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #212121; 
+}
+
+ .band {
+    position: absolute;
+    width: 64px;
+    height: 2px;
+    left: 669px;
+    top: 167px;
+    background: #FF8B38;    
+}
+
+.subtitle {
+    position: absolute;
+    width: 389px;
+    height: 20px;
+    left: 521px;
+    top: 191px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #86878B;
+}
+
+.blocks {
+    position: absolute; 
+    width: 1114px;
+    height: 197px;
+    top: 277px;
+    left: 144px;
+    }
+
+.leftBlock {
+    position: absolute;
+    width: 350px;
+    height: 197px;
+    }
+
+.circle {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 140px;
+    top: 0px;
+}
+
+.lamp {
+    position: absolute;
+    width: 19px;
+    height: 37px;
+    left: 165px;
+    top: 17px;
+}
+
+.advantages {
+    position: absolute;
+    width: 178px;
+    height: 24px;
+    left: 86px;
+    top: 97px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #333333;
+}
+
+.description {
+    position: absolute;
+    width: 349px;
+    height: 62px;
+    left: 1px;
+    top: 137px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #86878B;
+}
+
+.centreBlock {
+    position: absolute;
+    width: 350px;
+    height: 197px;
+    left: 382px;
+   }
+
+.circleTwo {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 140px;
+    top: 0px;
+ }
+
+.keyboard {
+    position: absolute;
+    width: 35px;
+    height: 37px;
+    left: 158px;
+    top: 16px;
+}
+.advantagesTwo {
+    position: absolute;
+    width: 122px;
+    height: 24px;
+    left: 114px;
+    top: 97px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #333333;
+}
+
+.descriptionTwo {
+    position: absolute;
+    width: 349px;
+    height: 62px;
+    left: 1px;
+    top: 137px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #86878B;
+}
+ .rightBlock {
+    position: absolute;
+    width: 350px;
+    height: 197px;
+    left: 764px;
+}
+
+.circleThree {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 139px;
+    top: 0px;
+}
+
+.lightning {
+    position: absolute;
+    width: 16px;
+    height: 37px;
+    left: 166px;
+    top: 17px;
+}
+
+.advantagesThree {
+    position: absolute;
+    width: 209px;
+    height: 24px;
+    left: 90px;
+    top: 97px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #333333;
+}
+
+.descriptionThree {
+    position: absolute;
+    width: 349px;
+    height: 62px;
+    left: 1px;
+    top: 137px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #86878B;
+    }
